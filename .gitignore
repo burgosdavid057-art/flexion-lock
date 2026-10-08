@@ -1,0 +1,16 @@
+
+# --- seguridad (agregado al publicar) ---
+CLAUDE.md
+.claude/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+node_modules/
+Thumbs.db
+.DS_Store
+data/*.json
+build/
+dist/
